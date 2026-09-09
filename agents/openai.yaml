@@ -1,0 +1,7 @@
+interface:
+  display_name: "黄博课题组指南写作"
+  short_description: "统一黄博课题组学生指南的内容风格与Word文档排版规范"
+  default_prompt: "Use $huangbo-group-guide-writer to create or revise a concise Huang Bo Research Group student guide."
+
+policy:
+  allow_implicit_invocation: true
